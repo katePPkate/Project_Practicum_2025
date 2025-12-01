@@ -1,0 +1,25 @@
+# Jupyter/Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (добавьте свои форматы)
+*.csv
+*.xlsx
+*.pkl
+*.h5
+*.npy
+
+# System files
+.DS_Store
+Thumbs.db
